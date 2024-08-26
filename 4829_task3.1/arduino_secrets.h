@@ -1,0 +1,2 @@
+#define SECRET_SSID "Bsnl2439"
+#define SECRET_PASS "7550661313"
